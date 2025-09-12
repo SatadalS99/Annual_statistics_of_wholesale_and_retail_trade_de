@@ -1,7 +1,7 @@
 # Trade and Economic Activity in Germany, 2005–2020
 
 # Overview
-This project analyzes official business statistics in Germany from 2005 to 2020, focusing on enterprises, employment, turnover, and economic activity in the trade sector. It highlights structural changes, productivity differences, and the sector’s resilience during economic shifts.
+This project analyzes German trade statistics from 2005–2020, focusing on productivity, capital investment, structural change, and expenditure efficiency. It explores how enterprises, employment, and turnover interact across wholesale, retail, and motor vehicle sectors.
 
 
 # Research Questions
