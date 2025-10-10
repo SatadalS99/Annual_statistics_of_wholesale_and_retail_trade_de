@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For questions or collaboration, please contact:
 
-**[Your Name]**  
+**[Satadal Santra]**  
 Email: satadals121@gmail.com  
 GitHub: ([https://github.com/SatadalS99](https://github.com/SatadalS99))
 
