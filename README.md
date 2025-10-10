@@ -1,4 +1,4 @@
-# German Trade and Economic Activity Analysis (2005–Present)
+# German Trade and Economic Activity Analysis (2005–2020)
 
 ## Overview
 This project explores structural dynamics and performance patterns within the German economy by analyzing trade data spanning from 2005 onward. Using official statistics classified according to WZ2008 (Wirtschaftszweig 2008) standards, the analysis investigates profitability trends, capital allocation, operational efficiency, firm characteristics, and temporal evolution across different economic sectors and firm sizes.
