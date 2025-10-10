@@ -119,7 +119,7 @@ Email: satadals121@gmail.com
 GitHub: ([https://github.com/SatadalS99](https://github.com/SatadalS99))
 
 ## Acknowledgments
-* Data provided by the German Federal Statistical Office (Destatis)
+* Data provided by the German Federal Statistical Office ([Destatis](https://www-genesis.destatis.de/datenbank/online/statistic/45341/table/45341-0002))
 * WZ2008 classification system based on European NACE Rev. 2 standards
 
 ---
