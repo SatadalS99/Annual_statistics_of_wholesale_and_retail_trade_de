@@ -116,7 +116,7 @@ For questions or collaboration, please contact:
 
 **[Your Name]**  
 Email: satadals121@gmail.com  
-GitHub: ([https://github.com/yourusername](https://github.com/SatadalS99))
+GitHub: ([https://github.com/SatadalS99](https://github.com/SatadalS99))
 
 ## Acknowledgments
 * Data provided by the German Federal Statistical Office (Destatis)
