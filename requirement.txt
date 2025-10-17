@@ -1,8 +1,0 @@
-To run this project, you need:
-
-Python 3.8+
-pandas
-numpy
-matplotlib
-seaborn
-openpyxl (for Excel file processing)
