@@ -1,0 +1,9 @@
+index,file,description
+1,fig_rq1_gross_yield_trends.png,Time-series of gross yield ratio by top industries (2005–2020).
+2,fig_rq1_volatility_boxplot.png,Volatility (IQR/SD) of gross yield ratio across industries.
+3,fig_rq2_capital_turnover_ratio.png,Gross capital formation / turnover by industry over time.
+4,fig_rq2_change_heatmap.png,Heatmap of 2005→2020 change in capital ratio by industry.
+5,fig_rq3_turnover_per_person_sizeclass.png,Turnover per person employed by employee size class and sector.
+6,fig_rq4_turnover_per_enterprise_slope.png,Slope chart: turnover per enterprise across size classes by sector.
+7,fig_rq5_enterprises_indexed.png,Indexed growth of enterprises (2005=100) by sector.
+8,fig_rq5_local_units_indexed.png,Indexed growth of local units (2005=100) by sector.
